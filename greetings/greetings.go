@@ -13,6 +13,7 @@ func Hello(name string) (string, error) {
 	}
 
 	message := fmt.Sprintf(randomFormat(), name)
+	//message := fmt.Sprintf(randomFormat())	// 缺少格式化参数
 	return message, nil
 }
 
