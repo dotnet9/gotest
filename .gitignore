@@ -16,3 +16,5 @@
 workspace/example/
 pkg/mod/cache/lock
 src/gowiki/测试页.txt
+src/gowiki/adf.txt
+src/gowiki/test.txt
